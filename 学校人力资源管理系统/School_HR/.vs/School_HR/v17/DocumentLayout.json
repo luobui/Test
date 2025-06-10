@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|c:\\users\\22400\\downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\school_hr\\school_hr\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\admin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\admin.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\ln5tqq6aiwfcbldudk-5bnajmpy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\ln5tqq6aiwfcbldudk-5bnajmpy.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\adec-hutwezf6832324.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\adec-hutwezf6832324.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\r1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\r1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddadmins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdateposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdateposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formsalarychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formsalarychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formsalarychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formsalarychange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formpositionchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formpositionchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formpositionchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formpositionchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartmentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartmentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formemployeechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formemployeechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartmentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartmentchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formemployeechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formemployeechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formaddemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formaddemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartmentchange.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartmentchange.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formdepartmentchange.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formdepartmentchange.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\adec-hutwezf68323241.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\adec-hutwezf68323241.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\adec-hutwezf68323242.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\adec-hutwezf68323242.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\resources\\r.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\resources\\r.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdateposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdateposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\formupdatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\formupdatedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\school_hr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FEDAEA3C-A3C4-455F-95F2-9B792D96F655}|School_HR\\School_HR.csproj|solutionrelative:school_hr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formdepartment.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartment.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartment.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartment.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "School_HR\\Formdepartment.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:59:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAddposition.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddposition.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddposition.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddposition.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddposition.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:37:30.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAddemployees.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddemployees.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddemployees.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddemployees.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddemployees.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:22:51.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dao.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Dao.cs",
+              "RelativeDocumentMoniker": "School_HR\\Dao.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Dao.cs",
+              "RelativeToolTip": "School_HR\\Dao.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:05:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAddadmins.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddadmins.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddadmins.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddadmins.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddadmins.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:23:32.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.resx",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.resx",
+              "RelativeDocumentMoniker": "School_HR\\admin.resx",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.resx",
+              "RelativeToolTip": "School_HR\\admin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-30T06:22:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ln5TQq6AIWfcBlduDk-5bnaJMpY.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\ln5TQq6AIWfcBlduDk-5bnaJMpY.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\ln5TQq6AIWfcBlduDk-5bnaJMpY.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\ln5TQq6AIWfcBlduDk-5bnaJMpY.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\ln5TQq6AIWfcBlduDk-5bnaJMpY.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-02T00:10:09.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formupdateemployee.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateemployee.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdateemployee.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateemployee.cs",
+              "RelativeToolTip": "School_HR\\Formupdateemployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:34:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Formupdateemployee.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateemployee.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdateemployee.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdateemployee.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdateemployee.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:29:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.resx",
+              "RelativeDocumentMoniker": "School_HR\\Form1.resx",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.resx",
+              "RelativeToolTip": "School_HR\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-29T08:11:07.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "School_HR\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.Designer.cs",
+              "RelativeToolTip": "School_HR\\Form1.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:11:06.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.cs",
+              "RelativeDocumentMoniker": "School_HR\\Form1.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:09:51.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adec-hutwezf6832324.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf6832324.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\adec-hutwezf6832324.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf6832324.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\adec-hutwezf6832324.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-13T00:34:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "R1.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\R1.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\R1.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\R1.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\R1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-13T00:56:05.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Program.cs",
+              "RelativeDocumentMoniker": "School_HR\\Program.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Program.cs",
+              "RelativeToolTip": "School_HR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:33:45.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAddadmins.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddadmins.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddadmins.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddadmins.cs",
+              "RelativeToolTip": "School_HR\\FormAddadmins.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAywCQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:21:56.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.Designer.cs",
+              "RelativeDocumentMoniker": "School_HR\\admin.Designer.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.Designer.cs",
+              "RelativeToolTip": "School_HR\\admin.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:21:57.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormUpdatepassword.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormUpdatepassword.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormUpdatepassword.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormUpdatepassword.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormUpdatepassword.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:20:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Formupdatesalary.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatesalary.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdatesalary.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdatesalary.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdatesalary.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:32:20.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Formupdateposition.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateposition.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdateposition.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdateposition.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdateposition.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:31:40.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "admin.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.cs",
+              "RelativeDocumentMoniker": "School_HR\\admin.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\admin.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\admin.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:32:33.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Formupdatedepartment.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatedepartment.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdatedepartment.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdatedepartment.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formupdatedepartment.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:31:04.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Formsalarychange.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formsalarychange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formsalarychange.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formsalarychange.cs",
+              "RelativeToolTip": "School_HR\\Formsalarychange.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAawHwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:46:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Formsalarychange.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formsalarychange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formsalarychange.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formsalarychange.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formsalarychange.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:37:53.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Formpositionchange.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formpositionchange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formpositionchange.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formpositionchange.cs",
+              "RelativeToolTip": "School_HR\\Formpositionchange.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAhwHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:46:17.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Formpositionchange.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formpositionchange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formpositionchange.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formpositionchange.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formpositionchange.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:36:09.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Formdepartmentchange.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartmentchange.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formdepartmentchange.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formdepartmentchange.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:33:36.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Formemployeechange.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formemployeechange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formemployeechange.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formemployeechange.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\Formemployeechange.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:49:53.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Formdepartmentchange.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartmentchange.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.cs",
+              "RelativeToolTip": "School_HR\\Formdepartmentchange.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAawHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:11:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Formemployeechange.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formemployeechange.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formemployeechange.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formemployeechange.cs",
+              "RelativeToolTip": "School_HR\\Formemployeechange.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAASwI0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:30:12.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Formdepartment.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartment.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartment.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartment.cs",
+              "RelativeToolTip": "School_HR\\Formdepartment.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAEwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T01:21:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormAddsalary.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddsalary.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddsalary.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddsalary.cs",
+              "RelativeToolTip": "School_HR\\FormAddsalary.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:51:49.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormAddsalary.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddsalary.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddsalary.cs",
+              "ToolTip": "C:\\Users\\22400\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddsalary.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Desktop\\\u6570\u636E\u5E93\u8BFE\u7A0B\u8BBE\u8BA1\\School_HR\\School_HR\\FormAddsalary.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:40:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormAddposition.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddposition.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddposition.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddposition.cs",
+              "RelativeToolTip": "School_HR\\FormAddposition.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAEwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:45:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormAddemployees.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddemployees.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormAddemployees.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormAddemployees.cs",
+              "RelativeToolTip": "School_HR\\FormAddemployees.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T00:36:02.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.cs",
+              "RelativeDocumentMoniker": "School_HR\\Form1.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Form1.cs",
+              "RelativeToolTip": "School_HR\\Form1.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAlwFgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:52:07.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.cs",
+              "RelativeDocumentMoniker": "School_HR\\admin.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\admin.cs",
+              "RelativeToolTip": "School_HR\\admin.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:34:18.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Formupdatesalary.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatesalary.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdatesalary.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatesalary.cs",
+              "RelativeToolTip": "School_HR\\Formupdatesalary.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwEMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:44:00.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormUpdatepassword.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormUpdatepassword.cs",
+              "RelativeDocumentMoniker": "School_HR\\FormUpdatepassword.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\FormUpdatepassword.cs",
+              "RelativeToolTip": "School_HR\\FormUpdatepassword.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:24:25.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Formdepartmentchange.resx",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.resx",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartmentchange.resx",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.resx",
+              "RelativeToolTip": "School_HR\\Formdepartmentchange.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-13T02:19:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Formdepartmentchange.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.Designer.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formdepartmentchange.Designer.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formdepartmentchange.Designer.cs",
+              "RelativeToolTip": "School_HR\\Formdepartmentchange.Designer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:19:47.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "adec-hutwezf68323241.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf68323241.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\adec-hutwezf68323241.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf68323241.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\adec-hutwezf68323241.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-13T00:34:49.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "adec-hutwezf68323242.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf68323242.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\adec-hutwezf68323242.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\adec-hutwezf68323242.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\adec-hutwezf68323242.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-13T00:56:43.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "R.jpg",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\R.jpg",
+              "RelativeDocumentMoniker": "School_HR\\Resources\\R.jpg",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Resources\\R.jpg",
+              "RelativeToolTip": "School_HR\\Resources\\R.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-13T00:56:35.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Formupdateposition.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateposition.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdateposition.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdateposition.cs",
+              "RelativeToolTip": "School_HR\\Formupdateposition.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:41:14.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Formupdatedepartment.cs",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatedepartment.cs",
+              "RelativeDocumentMoniker": "School_HR\\Formupdatedepartment.cs",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\Formupdatedepartment.cs",
+              "RelativeToolTip": "School_HR\\Formupdatedepartment.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA4wCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:47:20.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\App.config",
+              "RelativeDocumentMoniker": "School_HR\\App.config",
+              "ToolTip": "C:\\Users\\22400\\Downloads\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u7B2C\u4E09\u7EC4\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\\u5B66\u6821\u4EBA\u529B\u8D44\u6E90\u7BA1\u7406\u7CFB\u7EDF\\School_HR\\School_HR\\App.config",
+              "RelativeToolTip": "School_HR\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-01T03:35:02.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
