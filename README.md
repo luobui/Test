@@ -1,4 +1,4 @@
-本项目是一个人力资源管理系统，基于.NETFramework的设计，属于winform窗体应用的开发                                                                                                                                          功能：实现基本增删改查，具体功能表现为：基本人事调动、薪资调整、部门调整等
+本项目是一个人力资源管理系统，基于.NETFramework的设计，属于winform窗体应用的开发                                                                                                                                        功能：实现基本增删改查，具体功能表现为：基本人事调动、薪资调整、部门调整等
 采用技术：C#(.NET Framework) + Windows Forms+ADO.NET + MySQL + LINQ                                                          
 ![image](https://github.com/user-attachments/assets/449dc01b-af21-453e-8723-f63d97f996aa)
 ![image](https://github.com/user-attachments/assets/40a019ee-dd4b-4276-9055-2c29b9799a32)
